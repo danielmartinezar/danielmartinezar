@@ -13,6 +13,8 @@
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **I love Gym** 	&#127947; 
 - 📫 How to reach me **danimartinezar1205@gmail.com**
+-  <img style="margin: auto;" src="https://media.licdn.com/dms/image/C560EAQE4aQUhhAOPpg/rightRail-logo-shrink_200_200/0/1663316649055?e=1687323600&v=beta&t=6slrWgi26XbbpMjWpjUMOwalVqflGmlV3PA0PmyrYew" alt=linkedin width="30" height="30"/> [Daniel Martinez](https://www.linkedin.com/in/daniel-martinez-082b02236/)
+
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
