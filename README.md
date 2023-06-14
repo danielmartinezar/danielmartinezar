@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Daniel Martinez</h1>
+<h1 align="center">Hi &#x1f44b;, I'm Daniel Martinez</h1>
 
 <h3 align="center">A passionate backend and mobile developer from Colombia</h3>
 <h3 align="center">Bachelor´s degree- Systems Engineering(To be graduated in 2024)</h3>
