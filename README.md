@@ -50,8 +50,7 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-
-
+&#x1f4c4;**My Resume**: [Resume.pdf](https://www.linkedin.com/in/daniel-martinez-082b02236/overlay/1635528933682/single-media-viewer/?type=DOCUMENT&profileId=ACoAADrlceIBS-_9hSX436ZYCpzNeD6QjAVyV6A)
 
 
 
