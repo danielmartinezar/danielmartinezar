@@ -1,7 +1,7 @@
 <h1 align="center">Hi &#x1f44b;, I'm Daniel Martinez</h1>
 
 <h3 align="center">A passionate backend and mobile developer from Colombia</h3>
-<h3 align="center">Bachelor´s degree- Systems Engineering(To be graduated in 2024)</h3>
+
 
 
 
